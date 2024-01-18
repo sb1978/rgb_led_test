@@ -3362,6 +3362,7 @@ https://github.com/combs/DLxx416_Arduino
 https://github.com/remocons/boho-arduino
 https://github.com/remocons/remote-signal-arduino
 https://github.com/remocons/iosignal-arduino
+https://github.com/remocons/remocon-arduino
 https://github.com/connect-things/ConnectThings_ESP8266
 https://github.com/connornishijima/AlertMe
 https://github.com/connornishijima/Lixie-arduino
@@ -6315,6 +6316,7 @@ https://github.com/bonezegei/Bonezegei_HD44780
 https://github.com/bonezegei/Bonezegei_DHT11
 https://github.com/bonezegei/Bonezegei_DHT22
 https://github.com/bonezegei/Bonezegei_PCF8574
+https://github.com/bonezegei/Bonezegei_LCD1602_I2C
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088
 https://github.com/odriverobotics/ODriveArduino
@@ -6584,3 +6586,10 @@ https://github.com/alekseizarubin/CD22M3494EZ
 https://github.com/yhur/ConfigPortal32
 https://github.com/yhur/ConfigPortal8266
 https://github.com/sb1978/rgbled
+https://github.com/mkeras/BasicTag
+https://github.com/nguyenmanhthao996tn/Kionix_KX023
+https://github.com/pmassio/ArduinoLMI
+https://github.com/TobiGr/SimplifiedTimer
+https://github.com/AlfredoSystems/Alfredo_NoU3
+https://github.com/AlfredoSystems/AlfredoCRSF
+https://github.com/AlfredoSystems/SimpleMelt
